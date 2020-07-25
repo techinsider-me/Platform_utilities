@@ -10,3 +10,4 @@ you need allow the permission and you will get a token that you have to copy and
 once this is done then you can ready to import the files from google drive to colab notebook.
 '''
 #reference
+#Image - https://github.com/techinsider-me/Platform_utilities/blob/master/reference.jpg
